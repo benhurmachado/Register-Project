@@ -32,7 +32,7 @@ def main():
     def register(people):
         #using try and except to avoid some bugs
         try:
-            name = str(input("Name: "))
+            name = str(input("Name: ").upper())
             age = int(input("Age: "))
             people.append(Person(name, age))
         except ValueError:
