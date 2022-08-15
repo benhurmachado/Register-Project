@@ -65,7 +65,7 @@ def main():
             #calling the search function
             search(people)
             print("LOADING...")
-            sleep(3)
+            sleep(4)
             system("cls")
         elif option == "3":
             system("cls")

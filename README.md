@@ -6,10 +6,10 @@ This repository contains the source code for a registering system, programmed to
 
 Install Python and git.
 
-'''sh
+```sh
 $ sudo apt install -y python git
 $ git clone https://github.com/benhurmachado/Register-Project.git
-'''
+```
 
 # Starting the RegisterCode Software
 
